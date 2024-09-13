@@ -1,3 +1,73 @@
+This is the boilerplate which i made it for easily build new project.
+If you want to use this boilerplate please make sure your development environment setting should be simillar.
+before use this boilerplate please check `package.json` for this is fit to your project.
+
+# Author Development
+```bash
+System:
+  OS: macOS 13.5
+  CPU: (10) arm64 Apple M2 Pro
+  Memory: 1.40 GB / 16.00 GB
+  Shell:
+    version: "5.9"
+    path: /bin/zsh
+Binaries:
+  Node:
+    version: 22.6.0
+    path: /opt/homebrew/bin/node
+  Yarn:
+    version: 1.22.22
+    path: /opt/homebrew/bin/yarn
+  npm:
+    version: 10.8.2
+    path: /opt/homebrew/bin/npm
+  Watchman:
+    version: 2024.08.19.00
+    path: /opt/homebrew/bin/watchman
+Managers:
+  CocoaPods:
+    version: 1.15.2
+    path: /Users/godong-gwan/.rbenv/shims/pod
+SDKs:
+  iOS SDK:
+    Platforms:
+      - DriverKit 23.0
+      - iOS 17.0
+      - macOS 14.0
+      - tvOS 17.0
+      - watchOS 10.0
+  Android SDK: Not Found
+IDEs:
+  Android Studio: 2022.3 AI-223.8836.35.2231.10811636
+  Xcode:
+    version: 15.0/15A240d
+    path: /usr/bin/xcodebuild
+Languages:
+  Java:
+    version: 17.0.9
+    path: /usr/bin/javac
+  Ruby:
+    version: 2.7.4
+    path: /Users/godong-gwan/.rbenv/shims/ruby
+npmPackages:
+  "@react-native-community/cli": Not Found
+  react:
+    installed: 18.3.1
+    wanted: 18.3.1
+  react-native:
+    installed: 0.75.3
+    wanted: 0.75.3
+  react-native-macos: Not Found
+npmGlobalPackages:
+  "*react-native*": Not Found
+Android:
+  hermesEnabled: true
+  newArchEnabled: false
+iOS:
+  hermesEnabled: true
+  newArchEnabled: false
+```
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
