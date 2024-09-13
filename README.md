@@ -1,6 +1,7 @@
 This is the boilerplate which i made it for easily build new project.
 
 If you want to use this boilerplate please make sure your development environment setting should be simillar.
+if you get trouble please check node, yarn, npm, watchman, rbenv, xcode, java, ruby, version.
 
 before use this boilerplate please check `package.json` for this is fit to your project.
 
