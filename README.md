@@ -4,7 +4,7 @@ If you want to use this boilerplate please make sure your development environmen
 
 before use this boilerplate please check `package.json` for this is fit to your project.
 
-# Author Development
+# Author Development Setting
 ```bash
 System:
   OS: macOS 13.5
